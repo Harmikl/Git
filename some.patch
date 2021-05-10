@@ -1,0 +1,9 @@
+diff --git a/file.txt b/file.txt
+index 006ec85..b038db3 100644
+--- a/file.txt
++++ b/file.txt
+@@ -3,3 +3,4 @@ Hello git
+ Git is awesome
+ Hello git
+ 
++patch file
