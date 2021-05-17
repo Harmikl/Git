@@ -2,6 +2,6 @@ Git is awesome
 Hello git
 Git is awesome
 Hello git
-
+fourth line
 patch file
 Line to branch
